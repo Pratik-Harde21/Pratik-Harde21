@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular Framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pratik-Harde21/Pratik-Harde21](https://github.com/Pratik-Harde21/Pratik-Harde21)
+- 👨‍💻 All of my projects are available at [https://github.com/Pratik-Harde21?tab=repositories)
 
 - 💬 Ask me about **Web Development, React, Machine Learning**
 
